@@ -45,19 +45,7 @@ A simple yet functional web application built with Django that takes user-submit
 
 ---
 
-# 📁 Project Structure
-word-counter-django/
-├── wordcounter/           # Django app
-│   ├── templates/
-│   │   └── index.html     # Main UI template
-│   └── views.py           # Word counting logic
-├── wordcounter_project/   # Django project
-├── manage.py
-└── requirements.txt
-
----
-
-#🎯 Use Cases
+# 🎯 Use Cases
 
 1. Basic NLP/text-processing demonstration
 2. Django learning project
